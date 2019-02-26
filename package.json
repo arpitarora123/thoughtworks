@@ -1,0 +1,15 @@
+{
+  "name": "thoughtworks",
+  "version": "1.0.0",
+  "description": "thoughtworks interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Arpit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.16.4"
+  }
+}
